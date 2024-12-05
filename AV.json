@@ -1,4 +1,5 @@
 [	
+	{ "name": "ck资源|AV","api": "https://ckzy.me/api.php/provide/vod/" },
 	{ "name": "奥斯卡资源|AV","api": "https://aosikazy.com/api.php/provide/vod/" },
 	{ "name": "老鸭资源|AV","api": "https://api.apilyzy.com/api.php/provide/vod/" },
 	{ "name": "91麻豆|AV","api": "https://91md.me/api.php/provide/vod/" },
