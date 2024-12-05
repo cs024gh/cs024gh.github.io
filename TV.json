@@ -14,7 +14,6 @@
 	{ "name": "快车|点播","api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/" },
         { "name": "影图|点播","api": "https://cj.vodimg.top/api.php/provide/vod/" },
         { "name": "U酷|点播","api": "https://api.ukuapi.com/api.php/provide/vod/" },
-        { "name": "豪华|点播","api": "https://hhzyapi.com/api.php/provide/vod" },
         { "name": "极速|点播","api": "https://jszyapi.com/api.php/provide/vod" },
         { "name": "索尼|点播","api": "https://suoniapi.com/api.php/provide/vod/" },
         { "name": "ikun|点播","api": "https://ikunzyapi.com/api.php/provide/vod/" },
