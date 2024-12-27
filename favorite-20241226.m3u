@@ -1,0 +1,73 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 tvg-id="LOVENATURE4K" tvg-name="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="•4K「IPV4」",Love Nature 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="Loupe" tvg-name="Loupe" tvg-logo="https://epg.iill.top/logo/Loupe4K.png" group-title="•4K「IPV4」",Loupe 4K「视觉」
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="•4K「IPV4」",Fashion 4K「时尚」
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342412&huya&logo" group-title="•虎牙「影视」",周星星
+https://live.iill.top/huya/11342412
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30150311&bilibili&logo" group-title="•B站「影视」",蜡笔小新|小芯动漫
+https://live.iill.top/bilibili/30150311
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/14745943&bilibili&logo" group-title="•B站「影视」",哆啦A梦|达果仲气·中配
+https://live.iill.top/bilibili/14745943
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1982632047&bilibili&logo" group-title="•B站「影视」",蜡笔小新|幼稚好无聊
+https://live.iill.top/bilibili/1982632047
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30837590&bilibili&logo" group-title="•B站「影视」",蜡笔小新|狐狐动画城
+https://live.iill.top/bilibili/30837590
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1820703641&bilibili&logo" group-title="•B站「影视」",蜡笔小新|好大馄饨
+https://live.iill.top/bilibili/1820703641
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342385&huya&logo" group-title="•虎牙「影视」",火影
+https://live.iill.top/huya/11342385
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/20488841&huya&logo" group-title="•虎牙「影视」",阿良说美剧
+https://live.iill.top/huya/20488841
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/16144175&huya&logo" group-title="•虎牙「影视」",亮哥讲电影
+https://live.iill.top/huya/16144175
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/2793084&douyu&logo" group-title="•斗鱼「影视」",科幻
+https://live.iill.top/douyu/2793084
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/4105989&douyu&logo" group-title="•斗鱼「影视」",变形金刚
+https://live.iill.top/douyu/4105989
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1165374&douyu&logo" group-title="•斗鱼「影视」",恐怖
+https://live.iill.top/douyu/1165374
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/9651304&douyu&logo" group-title="•斗鱼「影视」",变种人
+https://live.iill.top/douyu/9651304
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/12143022&douyu&logo" group-title="•斗鱼「影视」",60帧
+https://live.iill.top/douyu/12143022
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/8814650&douyu&logo" group-title="•斗鱼「影视」",霍格沃茨
+https://live.iill.top/douyu/8814650
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/8770422&douyu&logo" group-title="•斗鱼「影视」",豆瓣高分
+https://live.iill.top/douyu/8770422
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/6140589&douyu&logo" group-title="•斗鱼「影视」",漫威
+https://live.iill.top/douyu/6140589
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/4246519&douyu&logo" group-title="•斗鱼「影视」",邵氏电影·1
+https://live.iill.top/douyu/4246519
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•斗鱼「影视」",科幻灾难
+https://live.iill.top/douyu/323876
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•斗鱼「影视」",小片片说大片
+https://live.iill.top/douyu/4258555
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•斗鱼「影视」",牛叔说电影
+https://live.iill.top/douyu/2758565
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•斗鱼「影视」",刘老师说电影
+https://live.iill.top/douyu/8317926
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•斗鱼「影视」",电影迷小雅
+https://live.iill.top/douyu/9639225
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/10010651&douyu&logo" group-title="•斗鱼「影视」",牛叔说电影二台
+https://live.iill.top/douyu/10010651
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/2164691&douyu&logo" group-title="•斗鱼「影视」",发条电影最TOP
+https://live.iill.top/douyu/2164691
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/3643605&douyu&logo" group-title="•斗鱼「影视」",一目十影
+https://live.iill.top/douyu/3643605
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1382745093&yy&logo" group-title="•歪歪「影视」",金刚
+https://live.iill.top/yy/1382745093
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1382736867&yy&logo" group-title="•歪歪「影视」",国外高分大片
+https://live.iill.top/yy/1382736867
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1382736833&yy&logo" group-title="•歪歪「影视」",国外动作大片
+https://live.iill.top/yy/1382736833
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1354936249&yy&logo" group-title="•歪歪「影视」",解放-苏联战争巨片
+https://live.iill.top/yy/1354936249
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",凤凰资讯
+https://live.iill.top/youtube/@phoenixtvhk
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/globalnewstw&youtube&logo" group-title="•YouTube「其他」",寰宇新闻
+https://live.iill.top/youtube/@globalnewstw
