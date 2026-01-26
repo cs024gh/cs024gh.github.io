@@ -101,11 +101,11 @@ CCTV12,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227540/index.m3u8
 CCTV12,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227543/index.m3u8
 CCTV12,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226192/index.m3u8
 CCTV12,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226862/index.m3u8
-CCTV13,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226729/index.m3u8
 CCTV13,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227333/index.m3u8
 CCTV13,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227446/index.m3u8
 CCTV13,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227449/index.m3u8
 CCTV13,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226191/index.m3u8
+CCTV13,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226729/index.m3u8
 CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3u8
 CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226720/index.m3u8
 CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227349/index.m3u8
