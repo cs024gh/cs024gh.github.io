@@ -1,3 +1,4 @@
+4K,#genre#
 CCTV16-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227416/index.m3u8
 CCTV4K超高清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.m3u8
 北京卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227532/index.m3u8
@@ -13,6 +14,7 @@ CCTV4K超高清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.
 深圳卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227538/index.m3u8
 至臻视界-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
 咪视界-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
+央视,#genre#
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227637/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227544/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
@@ -145,6 +147,7 @@ CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227432/index.m3u8
 CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
 CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
+卫视,#genre#
 安多卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227160/index.m3u8
 安多卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227561/index.m3u8
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227567/index.m3u8
@@ -324,6 +327,7 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.
 重庆卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227227/index.m3u8
 重庆卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226169/index.m3u8
 重庆卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226868/index.m3u8
+辽宁,#genre#
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227609/index.m3u8
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
@@ -358,6 +362,7 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.
 盘锦新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227529/index.m3u8
 阜新教育,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227498/index.m3u8
 阜新新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227407/index.m3u8
+其他,#genre#
 睛彩广场舞,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
 睛彩竞技,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
 睛彩篮球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8
@@ -391,6 +396,7 @@ CETV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
 聚鲨环球精选,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227044/index.m3u8
 优购物,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227335/index.m3u8
 家庭理财,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
+咪世界,#genre#
 咪视界01,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227439/index.m3u8
 咪视界02,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227409/index.m3u8
 咪视界03,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227323/index.m3u8
