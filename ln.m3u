@@ -207,6 +207,12 @@ http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227711/index.m3u8
 http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227644/index.m3u8
 #EXTINF:-1 tvg-name="中央新影老故事" tvg-logo="https://live.fanmingming.cn/tv/中央新影老故事.png" group-title="央视",中央新影老故事
 http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227745/index.m3u8
+#EXTINF:-1 tvg-name="全球财经" tvg-logo="https://live.fanmingming.cn/tv/全球财经.png" group-title="央视",全球财经
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+#EXTINF:-1 tvg-name="发现中国" tvg-logo="https://live.fanmingming.cn/tv/发现中国.png" group-title="央视",发现中国
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#EXTINF:-1 tvg-name="中国旅游" tvg-logo="https://live.fanmingming.cn/tv/中国旅游.png" group-title="央视",中国旅游
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视",CGTN
 http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="辽宁地方台",辽宁卫视
@@ -511,6 +517,10 @@ http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
 http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="其他",CHC影迷电影
 http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古足球频道" tvg-logo="https://live.fanmingming.cn/tv/内蒙古足球频道.png" group-title="其他",内蒙古足球频道
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227720/index.m3u8
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://live.fanmingming.cn/tv/环球奇观.png" group-title="其他",环球奇观
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227760/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="其他",CETV1
 http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227593/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="其他",CETV1
